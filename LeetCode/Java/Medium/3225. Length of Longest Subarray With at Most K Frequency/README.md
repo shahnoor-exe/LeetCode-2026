@@ -8,8 +8,8 @@
 Array, Hash Table, Sliding Window
 
 ### 🚀 Performance
-- **Runtime:** 72 ms
-- **Memory:** 88.8 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
