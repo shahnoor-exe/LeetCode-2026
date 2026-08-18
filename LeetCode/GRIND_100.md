@@ -45,7 +45,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [x] [Reverse Linked List](./Java/Easy/206. Reverse Linked List/)
 - [ ] Palindrome Linked List
 - [x] [Linked List Cycle](./Java/Easy/141. Linked List Cycle/)
-- [x] [Linked List Cycle II](./C++/Medium/142. Linked List Cycle II/)
+- [x] [Linked List Cycle II](./Java/Medium/142. Linked List Cycle II/)
 - [x] [Merge Two Sorted Lists](./Java/Easy/21. Merge Two Sorted Lists/)
 - [ ] Remove Nth Node From End of List
 - [ ] Intersection of Two Linked Lists
