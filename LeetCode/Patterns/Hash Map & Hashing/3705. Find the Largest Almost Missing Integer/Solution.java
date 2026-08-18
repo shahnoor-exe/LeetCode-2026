@@ -10,7 +10,8 @@ class Solution {
         }
         else if(k==n){
             int y=-1;
-            for(int x:nums) return Math.max(x,y);
+            for(int x:nums) y=Math.max(x,y);
+            return y;
         }
         int y=-1;
         if(c[nums[0]]==1) y=Math.max(y,nums[0]);
