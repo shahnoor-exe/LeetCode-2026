@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/linked-list-cycle-ii/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
 ### 💡 Tags
 Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm
 
 ### 🚀 Performance
-- **Runtime:** 5 ms
-- **Memory:** 11.2 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
