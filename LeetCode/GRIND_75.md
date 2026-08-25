@@ -3,33 +3,33 @@
 Track your progress on the Grind 75 coding interview preparation list.
 
 ## Progress
-- **Completed:** 4 / 75 (5.3%)
+- **Completed:** 36 / 75 (48.0%)
 
 ---
 
 ## Checklist
 
 ### 📂 Array
-- [ ] Two Sum
-- [ ] Best Time to Buy and Sell Stock
-- [ ] Contains Duplicate
+- [x] [Two Sum](../1 Two Sum/)
+- [x] [Best Time to Buy and Sell Stock](../121 Best Time to Buy and Sell Stock/)
+- [x] [Contains Duplicate](../217 Contains Duplicate/)
 - [ ] Product of Array Except Self
-- [ ] Maximum Subarray
+- [x] [Maximum Subarray](../53 Maximum Subarray/)
 - [ ] Maximum Product Subarray
-- [ ] Find Minimum in Rotated Sorted Array
-- [ ] Search in Rotated Sorted Array
-- [ ] 3Sum
-- [ ] Container With Most Water
+- [x] [Find Minimum in Rotated Sorted Array](../153 Find Minimum in Rotated Sorted Array/)
+- [x] [Search in Rotated Sorted Array](../33 Search in Rotated Sorted Array/)
+- [x] [3Sum](../15 3Sum/)
+- [x] [Container With Most Water](../11 Container With Most Water/)
 
 ### 📂 Binary
 - [ ] Sum of Two Integers
-- [ ] Number of 1 Bits
-- [ ] Counting Bits
-- [ ] Missing Number
-- [ ] Reverse Bits
+- [x] [Number of 1 Bits](../191 Number of 1 Bits/)
+- [x] [Counting Bits](../338 Counting Bits/)
+- [x] [Missing Number](../268 Missing Number/)
+- [x] [Reverse Bits](../190 Reverse Bits/)
 
 ### 📂 Dynamic Programming
-- [ ] Climbing Stairs
+- [x] [Climbing Stairs](../70 Climbing Stairs/)
 - [ ] Coin Change
 - [ ] Longest Increasing Subsequence
 - [ ] Longest Common Subsequence
@@ -45,55 +45,55 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [ ] Clone Graph
 - [ ] Course Schedule
 - [ ] Pacific Atlantic Water Flow
-- [ ] Number of Islands
+- [x] [Number of Islands](../200 Number of Islands/)
 - [ ] Longest Consecutive Sequence
 - [ ] Alien Dictionary
 - [ ] Graph Valid Tree
 - [ ] Number of Connected Components in an Undirected Graph
 
 ### 📂 Interval
-- [ ] Insert Interval
-- [ ] Merge Intervals
+- [x] [Insert Interval](../57 Insert Interval/)
+- [x] [Merge Intervals](../56 Merge Intervals/)
 - [ ] Non-overlapping Intervals
 - [ ] Meeting Rooms
 - [ ] Meeting Rooms II
 
 ### 📂 Linked List
-- [x] [Reverse Linked List](./Java/Easy/206. Reverse Linked List/)
-- [x] [Linked List Cycle](./Java/Easy/141. Linked List Cycle/)
-- [x] [Merge Two Sorted Lists](./Java/Easy/21. Merge Two Sorted Lists/)
+- [x] [Reverse Linked List](./Patterns/Linked List/206. Reverse Linked List/)
+- [x] [Linked List Cycle](./Patterns/Two Pointers/141. Linked List Cycle/)
+- [x] [Merge Two Sorted Lists](./Patterns/Linked List/21. Merge Two Sorted Lists/)
 - [ ] Merge k Sorted Lists
-- [x] [Remove Nth Node From End of List](./Java/Medium/19. Remove Nth Node From End of List/)
-- [ ] Reorder List
+- [x] [Remove Nth Node From End of List](./Patterns/Two Pointers/19. Remove Nth Node From End of List/)
+- [x] [Reorder List](../143 Reorder List/)
 
 ### 📂 Matrix
-- [ ] Set Matrix Zeroes
-- [ ] Spiral Matrix
-- [ ] Rotate Image
+- [x] [Set Matrix Zeroes](../73 Set Matrix Zeroes/)
+- [x] [Spiral Matrix](../54 Spiral Matrix/)
+- [x] [Rotate Image](../48 Rotate Image/)
 - [ ] Word Search
 
 ### 📂 String
-- [ ] Longest Substring Without Repeating Characters
+- [x] [Longest Substring Without Repeating Characters](../3 Longest Substring Without Repeating Characters/)
 - [ ] Longest Repeating Character Replacement
 - [ ] Minimum Window Substring
 - [ ] Valid Anagram
-- [ ] Group Anagrams
-- [ ] Valid Parentheses
-- [ ] Valid Palindrome
-- [ ] Longest Palindromic Substring
+- [x] [Group Anagrams](../49 Group Anagrams/)
+- [x] [Valid Parentheses](../20 Valid Parentheses/)
+- [x] [Valid Palindrome](../125 Valid Palindrome/)
+- [x] [Longest Palindromic Substring](../5 Longest Palindromic Substring/)
 - [ ] Palindromic Substrings
 - [ ] Encode and Decode Strings
 
 ### 📂 Tree
-- [ ] Maximum Depth of Binary Tree
-- [ ] Same Tree
-- [ ] Invert Binary Tree
+- [x] [Maximum Depth of Binary Tree](../104 Maximum Depth of Binary Tree/)
+- [x] [Same Tree](../100 Same Tree/)
+- [x] [Invert Binary Tree](../226 Invert Binary Tree/)
 - [ ] Binary Tree Maximum Path Sum
-- [ ] Binary Tree Level Order Traversal
+- [x] [Binary Tree Level Order Traversal](../102 Binary Tree Level Order Traversal/)
 - [ ] Serialize and Deserialize Binary Tree
-- [ ] Subtree of Another Tree
+- [x] [Subtree of Another Tree](../572 Subtree of Another Tree/)
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
-- [ ] Validate Binary Search Tree
+- [x] [Validate Binary Search Tree](../98 Validate Binary Search Tree/)
 - [ ] Kth Smallest Element in a BST
 - [ ] Lowest Common Ancestor of a Binary Search Tree
 - [ ] Implement Trie (Prefix Tree)
@@ -101,7 +101,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [ ] Word Search II
 
 ### 📂 Heap
-- [ ] Top K Frequent Elements
+- [x] [Top K Frequent Elements](../347 Top K Frequent Elements/)
 - [ ] Find Median from Data Stream
 
 ---

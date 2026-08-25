@@ -3,93 +3,93 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 6 / 100 (6.0%)
+- **Completed:** 44 / 87 (50.6%)
 
 ---
 
 ## Checklist
 
 ### 📂 Array & Two Pointers
-- [ ] Two Sum
-- [ ] 3Sum
-- [ ] Container With Most Water
-- [ ] Move Zeroes
-- [ ] Sort Colors
+- [x] [Two Sum](../1 Two Sum/)
+- [x] [3Sum](../15 3Sum/)
+- [x] [Container With Most Water](../11 Container With Most Water/)
+- [x] [Move Zeroes](../283 Move Zeroes/)
+- [x] [Sort Colors](../75 Sort Colors/)
 - [ ] Product of Array Except Self
 - [ ] Next Permutation
 - [ ] Trapping Rain Water
-- [ ] Find the Duplicate Number
-- [ ] Majority Element
-- [ ] Find All Numbers Disappeared in an Array
+- [x] [Find the Duplicate Number](../287 Find the Duplicate Number/)
+- [x] [Majority Element](../169 Majority Element/)
+- [x] [Find All Numbers Disappeared in an Array](../448 Find All Numbers Disappeared in an Array/)
 
 ### 📂 Subarray & Sliding Window
-- [ ] Maximum Subarray
-- [ ] Subarray Sum Equals K
+- [x] [Maximum Subarray](../53 Maximum Subarray/)
+- [x] [Subarray Sum Equals K](../560 Subarray Sum Equals K/)
 - [ ] Sliding Window Maximum
-- [ ] Longest Substring Without Repeating Characters
+- [x] [Longest Substring Without Repeating Characters](../3 Longest Substring Without Repeating Characters/)
 - [ ] Find All Anagrams in a String
 - [ ] Minimum Window Substring
 
 ### 📂 Hash Map & String
-- [ ] Group Anagrams
+- [x] [Group Anagrams](../49 Group Anagrams/)
 - [ ] Longest Consecutive Sequence
-- [ ] Valid Parentheses
+- [x] [Valid Parentheses](../20 Valid Parentheses/)
 - [ ] Decode String
-- [ ] Valid Palindrome
-- [ ] Longest Palindromic Substring
+- [x] [Valid Palindrome](../125 Valid Palindrome/)
+- [x] [Longest Palindromic Substring](../5 Longest Palindromic Substring/)
 - [ ] Palindromic Substrings
 - [ ] Regular Expression Matching
-- [ ] Letter Combinations of a Phone Number
+- [x] [Letter Combinations of a Phone Number](../17 Letter Combinations of a Phone Number/)
 
 ### 📂 Linked List
-- [x] [Reverse Linked List](./Java/Easy/206. Reverse Linked List/)
-- [x] [Palindrome Linked List](./Java/Easy/234. Palindrome Linked List/)
-- [x] [Linked List Cycle](./Java/Easy/141. Linked List Cycle/)
-- [x] [Linked List Cycle II](./Java/Medium/142. Linked List Cycle II/)
-- [x] [Merge Two Sorted Lists](./Java/Easy/21. Merge Two Sorted Lists/)
-- [x] [Remove Nth Node From End of List](./Java/Medium/19. Remove Nth Node From End of List/)
+- [x] [Reverse Linked List](./Patterns/Linked List/206. Reverse Linked List/)
+- [x] [Palindrome Linked List](./Patterns/Two Pointers/234. Palindrome Linked List/)
+- [x] [Linked List Cycle](./Patterns/Two Pointers/141. Linked List Cycle/)
+- [x] [Linked List Cycle II](./Patterns/Two Pointers/142. Linked List Cycle II/)
+- [x] [Merge Two Sorted Lists](./Patterns/Linked List/21. Merge Two Sorted Lists/)
+- [x] [Remove Nth Node From End of List](./Patterns/Two Pointers/19. Remove Nth Node From End of List/)
 - [ ] Intersection of Two Linked Lists
-- [ ] Add Two Numbers
+- [x] [Add Two Numbers](../2 Add Two Numbers/)
 - [ ] Copy List with Random Pointer
 - [ ] LRU Cache
 - [ ] Sort List
 - [ ] Merge k Sorted Lists
 
 ### 📂 Binary Tree & BST
-- [ ] Invert Binary Tree
-- [ ] Symmetric Tree
-- [ ] Maximum Depth of Binary Tree
+- [x] [Invert Binary Tree](../226 Invert Binary Tree/)
+- [x] [Symmetric Tree](../101 Symmetric Tree/)
+- [x] [Maximum Depth of Binary Tree](../104 Maximum Depth of Binary Tree/)
 - [ ] Diameter of Binary Tree
-- [ ] Binary Tree Inorder Traversal
-- [ ] Binary Tree Level Order Traversal
-- [ ] Convert Sorted Array to Binary Search Tree
-- [ ] Validate Binary Search Tree
+- [x] [Binary Tree Inorder Traversal](../94 Binary Tree Inorder Traversal/)
+- [x] [Binary Tree Level Order Traversal](../102 Binary Tree Level Order Traversal/)
+- [x] [Convert Sorted Array to Binary Search Tree](../108 Convert Sorted Array to Binary Search Tree/)
+- [x] [Validate Binary Search Tree](../98 Validate Binary Search Tree/)
 - [ ] Lowest Common Ancestor of a Binary Tree
 - [ ] Kth Smallest Element in a BST
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
 - [ ] Binary Tree Maximum Path Sum
 - [ ] Path Sum III
 - [ ] Flatten Binary Tree to Linked List
-- [ ] Merge Two Binary Trees
+- [x] [Merge Two Binary Trees](../617 Merge Two Binary Trees/)
 
 ### 📂 Backtracking & Search
-- [ ] Permutations
+- [x] [Permutations](../46 Permutations/)
 - [ ] Subsets
 - [ ] Combination Sum
 - [ ] Word Search
-- [ ] Generate Parentheses
-- [ ] Search a 2D Matrix
+- [x] [Generate Parentheses](../22 Generate Parentheses/)
+- [x] [Search a 2D Matrix](../74 Search a 2D Matrix/)
 - [ ] Search a 2D Matrix II
-- [ ] Search in Rotated Sorted Array
-- [ ] Find First and Last Position of Element in Sorted Array
+- [x] [Search in Rotated Sorted Array](../33 Search in Rotated Sorted Array/)
+- [x] [Find First and Last Position of Element in Sorted Array](../34 Find First and Last Position of Element in Sorted Array/)
 
 ### 📂 Graph & Trie
-- [ ] Number of Islands
+- [x] [Number of Islands](../200 Number of Islands/)
 - [ ] Course Schedule
 - [ ] Implement Trie (Prefix Tree)
 
 ### 📂 Dynamic Programming
-- [ ] Climbing Stairs
+- [x] [Climbing Stairs](../70 Climbing Stairs/)
 - [ ] Coin Change
 - [ ] Word Break
 - [ ] Longest Increasing Subsequence
@@ -99,17 +99,17 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] Unique Paths
 - [ ] Minimum Path Sum
 - [ ] Target Sum
-- [ ] Unique Binary Search Trees
-- [ ] Best Time to Buy and Sell Stock
+- [x] [Unique Binary Search Trees](../96 Unique Binary Search Trees/)
+- [x] [Best Time to Buy and Sell Stock](../121 Best Time to Buy and Sell Stock/)
 - [ ] Best Time to Buy and Sell Stock with Cooldown
-- [ ] Perfect Squares
+- [x] [Perfect Squares](../279 Perfect Squares/)
 - [ ] Maximal Square
 - [ ] Longest Valid Parentheses
 
 ### 📂 Stack & Heap
-- [ ] Min Stack
-- [ ] Daily Temperatures
-- [ ] Top K Frequent Elements
+- [x] [Min Stack](../155 Min Stack/)
+- [x] [Daily Temperatures](../739 Daily Temperatures/)
+- [x] [Top K Frequent Elements](../347 Top K Frequent Elements/)
 - [ ] Find Median from Data Stream
 - [ ] Kth Largest Element in an Array
 - [ ] Task Scheduler
