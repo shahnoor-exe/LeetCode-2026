@@ -47,7 +47,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [x] [Linked List Cycle](./Java/Easy/141. Linked List Cycle/)
 - [x] [Linked List Cycle II](./Java/Medium/142. Linked List Cycle II/)
 - [x] [Merge Two Sorted Lists](./Patterns/Linked List/21. Merge Two Sorted Lists/)
-- [x] [Remove Nth Node From End of List](./Patterns/Two Pointers/19. Remove Nth Node From End of List/)
+- [x] [Remove Nth Node From End of List](./Java/Medium/19. Remove Nth Node From End of List/)
 - [ ] Intersection of Two Linked Lists
 - [x] [Add Two Numbers](../2 Add Two Numbers/)
 - [ ] Copy List with Random Pointer
