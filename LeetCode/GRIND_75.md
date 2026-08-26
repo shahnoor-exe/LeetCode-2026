@@ -17,7 +17,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [x] [Maximum Subarray](../53 Maximum Subarray/)
 - [ ] Maximum Product Subarray
 - [x] [Find Minimum in Rotated Sorted Array](../153 Find Minimum in Rotated Sorted Array/)
-- [x] [Search in Rotated Sorted Array](../33 Search in Rotated Sorted Array/)
+- [x] [Search in Rotated Sorted Array](./Java/Medium/33. Search in Rotated Sorted Array/)
 - [x] [3Sum](../15 3Sum/)
 - [x] [Container With Most Water](../11 Container With Most Water/)
 
