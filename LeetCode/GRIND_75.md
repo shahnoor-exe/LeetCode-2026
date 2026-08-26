@@ -101,7 +101,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [ ] Word Search II
 
 ### 📂 Heap
-- [x] [Top K Frequent Elements](../347 Top K Frequent Elements/)
+- [x] [Top K Frequent Elements](./Java/Medium/347. Top K Frequent Elements/)
 - [ ] Find Median from Data Stream
 
 ---

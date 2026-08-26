@@ -109,7 +109,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 ### 📂 Stack & Heap
 - [x] [Min Stack](../155 Min Stack/)
 - [x] [Daily Temperatures](../739 Daily Temperatures/)
-- [x] [Top K Frequent Elements](../347 Top K Frequent Elements/)
+- [x] [Top K Frequent Elements](./Java/Medium/347. Top K Frequent Elements/)
 - [ ] Find Median from Data Stream
 - [ ] Kth Largest Element in an Array
 - [ ] Task Scheduler
