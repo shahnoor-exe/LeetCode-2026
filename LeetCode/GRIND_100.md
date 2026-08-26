@@ -42,7 +42,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [x] [Letter Combinations of a Phone Number](../17 Letter Combinations of a Phone Number/)
 
 ### 📂 Linked List
-- [x] [Reverse Linked List](./Patterns/Linked List/206. Reverse Linked List/)
+- [x] [Reverse Linked List](./Java/Easy/206. Reverse Linked List/)
 - [x] [Palindrome Linked List](./Patterns/Two Pointers/234. Palindrome Linked List/)
 - [x] [Linked List Cycle](./Patterns/Two Pointers/141. Linked List Cycle/)
 - [x] [Linked List Cycle II](./Patterns/Two Pointers/142. Linked List Cycle II/)
