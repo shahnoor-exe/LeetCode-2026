@@ -69,7 +69,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 ### 📂 Matrix
 - [x] [Set Matrix Zeroes](./Java/Medium/73. Set Matrix Zeroes/)
 - [x] [Spiral Matrix](./Java/Medium/54. Spiral Matrix/)
-- [x] [Rotate Image](../48 Rotate Image/)
+- [x] [Rotate Image](./Java/Medium/48. Rotate Image/)
 - [ ] Word Search
 
 ### 📂 String
