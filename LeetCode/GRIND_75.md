@@ -78,7 +78,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [ ] Minimum Window Substring
 - [ ] Valid Anagram
 - [x] [Group Anagrams](../49 Group Anagrams/)
-- [x] [Valid Parentheses](../20 Valid Parentheses/)
+- [x] [Valid Parentheses](./Java/Easy/20. Valid Parentheses/)
 - [x] [Valid Palindrome](../125 Valid Palindrome/)
 - [x] [Longest Palindromic Substring](../5 Longest Palindromic Substring/)
 - [ ] Palindromic Substrings
