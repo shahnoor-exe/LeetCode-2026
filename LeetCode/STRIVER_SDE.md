@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 10 / 76 (13.2%)
+- **Completed:** 11 / 76 (14.5%)
 
 ---
 
@@ -18,7 +18,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [ ] Best Time to Buy and Sell Stock
 - [x] [Rotate Image](./Java/Medium/48. Rotate Image/)
 - [x] [Merge Intervals](./Java/Medium/56. Merge Intervals/)
-- [ ] Find the Duplicate Number
+- [x] [Find the Duplicate Number](./Java/Medium/287. Find the Duplicate Number/)
 - [ ] Trapping Rain Water
 
 ### 📂 Two Pointers & Hashing

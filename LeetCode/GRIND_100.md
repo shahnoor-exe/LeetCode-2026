@@ -18,7 +18,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] Product of Array Except Self
 - [ ] Next Permutation
 - [ ] Trapping Rain Water
-- [x] [Find the Duplicate Number](../287 Find the Duplicate Number/)
+- [x] [Find the Duplicate Number](./Java/Medium/287. Find the Duplicate Number/)
 - [x] [Majority Element](../169 Majority Element/)
 - [x] [Find All Numbers Disappeared in an Array](../448 Find All Numbers Disappeared in an Array/)
 
