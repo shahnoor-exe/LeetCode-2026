@@ -73,7 +73,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [ ] Word Search
 
 ### 📂 String
-- [x] [Longest Substring Without Repeating Characters](../3 Longest Substring Without Repeating Characters/)
+- [x] [Longest Substring Without Repeating Characters](./Java/Medium/3. Longest Substring Without Repeating Characters/)
 - [ ] Longest Repeating Character Replacement
 - [ ] Minimum Window Substring
 - [ ] Valid Anagram
